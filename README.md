@@ -23,5 +23,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaeywon&show_icons=true&locale=en&layout=compact" alt="jaeywon" /></p>
 
-## Github
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeywon)](https://github.com/anuraghazra/github-readme-stats)
+<h3>💡 My Git Stats 💡</h3>
+<p>
+  <a href="https://github.com/mantoing">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mantoing&hide=stars&hide_title=true&show_icons=${}&include_all_commits=true&theme=catppuccin_latte" />
+  </a>
+</p>
